@@ -1,0 +1,9 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/github/paicoding/forum/test/javabetter/exception1/TryCatchTest.fortry
+inline,com/github/paicoding/forum/test/javabetter/exception1/TryCatchTest.tryfor
+inline,com/github/paicoding/forum/test/javabetter/exception1/TryCatchTest1.fornotry
+inline,com/github/paicoding/forum/test/javabetter/exception1/TryCatchTest1.tryfor

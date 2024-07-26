@@ -1,0 +1,106 @@
+{
+  "groups": [
+    {
+      "name": "view.site",
+      "type": "com.github.paicoding.forum.web.config.GlobalViewConfig",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "view.site.cdn-img-style",
+      "type": "java.lang.String",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.contact-me-star-qr-code",
+      "type": "java.lang.String",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.contact-me-title",
+      "type": "java.lang.String",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.contact-me-wx-qr-code",
+      "type": "java.lang.String",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.host",
+      "type": "java.lang.String",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.need-login-article-read-count",
+      "type": "java.lang.String",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.oss",
+      "type": "java.lang.String",
+      "description": "oss的地址",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.page-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.star-info",
+      "type": "java.lang.String",
+      "description": "星球信息",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.website-favicon-icon-url",
+      "type": "java.lang.String",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.website-logo-url",
+      "type": "java.lang.String",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.website-name",
+      "type": "java.lang.String",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.website-record",
+      "type": "java.lang.String",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.welcome-info",
+      "type": "java.lang.String",
+      "description": "首次登录的欢迎信息",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.wx-login-url",
+      "type": "java.lang.String",
+      "description": "微信公众号登录url",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.zsxq-article-read-count",
+      "type": "java.lang.String",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.zsxq-poster-url",
+      "type": "java.lang.String",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    },
+    {
+      "name": "view.site.zsxq-url",
+      "type": "java.lang.String",
+      "sourceType": "com.github.paicoding.forum.web.config.GlobalViewConfig"
+    }
+  ],
+  "hints": []
+}
