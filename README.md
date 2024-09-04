@@ -26,12 +26,8 @@
 
 #### 系统架构图
 
-![](https://cdn.tobebetterjavaer.com/paicoding/3da165adfcad0f03d40e13e941ed4afb.png)
+![](https://github.com/supercaii/pai_project/blob/master/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84.png)
 
-
-#### 业务架构图
-
-![](https://cdn.tobebetterjavaer.com/paicoding/main/paicoding-business.jpg)
 
 ### 组织结构
 
