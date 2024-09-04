@@ -147,3 +147,6 @@ mvn clean install -DskipTests=true -Pprod
 |      git      | 2.34.1    | [http://github.com/](http://github.com/)                                                                               |
 |    docker     | 4.10.0+   | [https://docs.docker.com/desktop/](https://docs.docker.com/desktop/)                                                   |
 | let's encrypt | https证书   | [https://letsencrypt.org/](https://letsencrypt.org/)                                                                   |
+
+
+Copyright (c) 2022-2023 技术派（楼仔、沉默王二、一灰、小超）
